@@ -25,6 +25,13 @@ Crie um arquivo `.env.local` com as seguintes chaves:
 - `ANTHROPIC_API_KEY`
 - `NEKT_MCP_SERVER_URL`
 
+## 🎨 Identidade Visual & Branding
+O projeto deve seguir rigorosamente a interface do `app.nekt.ai`:
+- **Tema:** Light/Industrial (Fundo Cinza Nekt, não usar modo escuro preto).
+- [cite_start]**Cores de Destaque:** Verde-limão neon para botões, indicadores de progresso e elementos de dados positivos.
+- **Tipografia:** Sans-serif moderna, focada em legibilidade para tabelas e dashboards.
+- **Gráficos:** Highcharts deve ser configurado com cores coordenadas ao branding da Nekt, utilizando fundos que se mesclem ao cinza da página.
+
 ## 🚀 Como iniciar
 1. Clone o repositório
 2. `npm install`
